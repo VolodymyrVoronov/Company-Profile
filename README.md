@@ -1,4 +1,4 @@
-## Company-Profile
+# Company-Profile
 
 The project online [here](https://volodymyrvoronov.github.io/Company-Profile/).
 
